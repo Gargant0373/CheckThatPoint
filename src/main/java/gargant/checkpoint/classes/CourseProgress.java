@@ -21,8 +21,12 @@ public class CourseProgress {
 			return true;
 		return false;
 	}
-	
+
 	public int getCheckpoint() {
 		return this.checkpoint;
+	}
+
+	public Course getCourse() {
+		return this.course;
 	}
 }

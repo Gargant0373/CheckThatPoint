@@ -1,0 +1,15 @@
+prefix: "&6CheckThat > "
+messages:
+  plugin:
+    no-permission: "&cYou are not allowed to do that!"
+    only-player: "&cYou need to be a player to do that!"
+    internal:
+      course:
+        create: "&eCreated course named %name%"
+        present:
+          - "&eCourse: %name%"
+          - "&eCheckpoints: %checkpoints%"
+        presenting-checkpoint:
+          - "&eCheckpoint: %name%"
+          - "&eCheckpoint number: %number%"
+        save: "&eSaved checkpoint named %name%"

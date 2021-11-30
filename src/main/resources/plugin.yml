@@ -1,0 +1,7 @@
+name: CheckThatPoint
+main: gargant.checkpoint.main.CheckThatPoint
+version: '1.0'
+author: Gargant
+commands:
+  checkpoint:
+    usage: /<command>
